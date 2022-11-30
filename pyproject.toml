@@ -8,6 +8,7 @@ packages = [{include = "nfl_big_data_bowl_2023"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+jupyter = "^1.0.0"
 
 
 [build-system]
